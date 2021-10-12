@@ -2,7 +2,7 @@ POST   http://localhost:9006/birds
 Content-Type: application/json
 
 {
-	"species": "Tantric",
-	"notes" :"They fall asleep standing and sleep dance",
-	"estimatedAmount": 56
+	"species": "Tantricalus",
+	"notes" :"They fall asleep standing and dance in their sleep",
+	"estimatedAmount": 50
 }
