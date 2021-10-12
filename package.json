@@ -1,0 +1,20 @@
+{
+  "name": "be-security-validate-awungferd",
+  "version": "1.0.0",
+  "description": "- Do not use mongo/mongoose - Create a tiny API with two endpoints:   - `GET /birds` - returns current list of bird sightings in app memory   - `POST /birds` - adds a bird sighting to app memory",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-security-validate-Awungferd.git"
+  },
+
+ 
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0"
+  }
+}

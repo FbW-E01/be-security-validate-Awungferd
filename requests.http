@@ -1,0 +1,8 @@
+POST   http://localhost:9006/birds
+Content-Type: application/json
+
+{
+	"species": "Tantric",
+	"notes" :"They fall asleep standing and sleep dance",
+	"estimatedAmount": 56
+}
